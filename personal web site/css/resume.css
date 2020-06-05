@@ -86,7 +86,7 @@ p.lead {
 }
 
 .btn-primary {
-    background-color: #337400 !important;
+    background-color: #65008c !important;
     color: #fff;
     border: none !important;
 }
@@ -96,7 +96,7 @@ p.lead {
 }
 
 .btn-primary:hover {
-    background-color: #337400 !important;
+    background-color: #65008c !important;
     color: #fff;
 }
 
@@ -105,7 +105,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #337400;
+    color: #65008c;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -115,7 +115,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-    outline-color: #337400;
+    outline-color: #65008c;
 }
 
 @media (min-width: 992px) {
@@ -185,13 +185,13 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-    background-color: #337400 !important;
+    background-color: #65008c !important;
 }
 
 .text-primary {
-    color: #337400 !important;
+    color: #65008c !important;
 }
 
 a {
-    color: #337400;
+    color: #65008c;
 }
